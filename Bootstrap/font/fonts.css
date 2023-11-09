@@ -1,0 +1,11 @@
+@font-face{
+    font-family:IranSans;
+    src:url('Farsi-numerals/Webfonts/Woff/IRANSansXFaNum-Regular.woff') format('woff');
+    src:url('Farsi-numerals/Webfonts/Woff/IRANSansXFaNum-Medium.woff') format('woff');
+    src:url('Farsi-numerals/Webfonts/Woff2/IRANSansXFaNum-Regular.woff2') format('woff2');
+    src:url('Farsi-numerals/Webfonts/Woff2/IRANSansXFaNum-Medium.woff2') format('woff2');
+}
+
+body{
+    font-family:IranSans;
+}

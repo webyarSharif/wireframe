@@ -1,0 +1,207 @@
+@font-face {
+  font-family: 'sharif';
+  src:  url('fonts/sharif.eot?ynkkt8');
+  src:  url('fonts/sharif.eot?ynkkt8#iefix') format('embedded-opentype'),
+    url('fonts/sharif.ttf?ynkkt8') format('truetype'),
+    url('fonts/sharif.woff?ynkkt8') format('woff'),
+    url('fonts/sharif.svg?ynkkt8#sharif') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+
+[class^="webyar-"], [class*=" webyar-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sharif' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.webyar-time-icon-fast-time-symbol-isolated-illustration-stock-free-vector-copy-5:before {
+  content: "\e919";
+  font-size:60px;
+}
+.webyar-User-1-copy:before {
+  content: "\e915";
+  font-size:25px;
+}
+.webyar-users:before {
+  content: "\e900";
+  font-size:50px;
+}
+.webyar-check:before {
+  content: "\e901";
+  font-size:15px;
+}
+.webyar-check-circle:before {
+  content: "\e902";
+  font-size:25px;
+}
+.webyar-down1:before {
+  content: "\e94c";
+  font-size:25px;
+}
+.webyar-down-circle1:before {
+  content: "\e94d";
+  font-size:25px;
+}
+.webyar-facebook:before {
+  content: "\e95d";
+  font-size:25px;
+}
+.webyar-field-time:before {
+  content: "\e903";
+  font-size:25px;
+}
+.webyar-instagram:before {
+  content: "\e94e";
+  font-size:25px;
+}
+.webyar-left:before {
+  content: "\e904";
+  font-size:25px;
+}
+.webyar-linkedin:before {
+  content: "\e94f";
+  font-size:25px;
+}
+.webyar-play-circle:before {
+  content: "\e950";
+  font-size:25px;
+}
+.webyar-pushpin:before {
+  content: "\e90d";
+  font-size:25px;
+}
+.webyar-right:before {
+  content: "\e905";
+  font-size:25px;
+}
+.webyar-right-circle:before {
+  content: "\e951";
+  font-size:25px;
+}
+.webyar-search:before {
+  content: "\e954";
+  font-size:25px;
+}
+.webyar-setting:before {
+  content: "\e914";
+  font-size:30px;
+}
+.webyar-shop:before {
+  content: "\e906";
+  font-size:25px;
+}
+.webyar-shopping:before {
+  content: "\e955";
+  font-size:25px;
+}
+.webyar-shopping-cart:before {
+  content: "\e956";
+  font-size:25px;
+}
+.webyar-shopping-cart_large:before{
+  content: "\e956";
+  font-size:50px;
+}
+.webyar-twitter:before {
+  content: "\e95e";
+  font-size:25px;
+}
+.webyar-up:before {
+  content: "\e907";
+  font-size:25px;
+}
+.webyar-up-circle:before {
+  content: "\e908";
+  font-size:25px;
+}
+.webyar-user:before {
+  content: "\e909";
+  font-size:25px;
+}
+.webyar-user-add:before {
+  content: "\e90a";
+  font-size:25px;
+}
+.webyar-whats-app:before {
+  content: "\e958";
+  font-size:25px;
+}
+.webyar-left-circle:before {
+  content: "\e918";
+  font-size:25px;
+}
+.webyar-budget:before {
+  content: "\e90e";
+  font-size:30px;
+}
+.webyar-calendar:before {
+  content: "\e90f";
+  font-size:30px;
+}
+.webyar-immigration:before {
+  content: "\e910";
+  font-size:30px;
+}
+.webyar-report:before {
+  content: "\e911";
+  font-size:30px;
+}
+.webyar-stock-market:before {
+  content: "\e913";
+  font-size:30px;
+}
+.webyar-icons8_Online_Support:before {
+  content: "\e916";
+  font-size:25px;
+}
+.webyar-down:before {
+  content: "\e90b";
+  font-size:25px;
+}
+.webyar-down-small:before{
+  content: "\e90b";
+  font-size:15px;
+}
+.webyar-down-circle:before {
+  content: "\e90c";
+  font-size:25px;
+}
+.webyar-user1:before {
+  content: "\e95b";
+  font-size:25px;
+}
+.webyar-play-circle1:before {
+  content: "\e917";
+  font-size:100px;
+}
+.webyar-telegram:before {
+  content: "\e912";
+  font-size:25px;
+}
+.webyar-check-solid:before {
+  font-size:25px;
+  content: "\e900";
+}
+.webyar-circle-xmark-solid:before {
+  font-size:25px;
+  content: "\e901";
+}
+
+.sharif-check-solid:before {
+  content: "\e900";
+}
+.sharif-circle-xmark-solid:before {
+  content: "\e901";
+}
