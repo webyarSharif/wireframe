@@ -12,7 +12,15 @@ function newTime(time){
             time--;
             if(min === 0){
                 hour--;
-            };console.log(`${hour}:${min}:${sec}`);
+            }
+            else{
+                const CountDown = document.querySelector('.btn');
+                CountDown.textContent = `${hour}:${min}:${sec}`;
+                CountDown.addEventListener('click' , ()=>{
+                    clearInterval(timer);
+                    CountDown.textContent = "00:00:00"
+                })
+            }
         }
         
     }, 1000);
@@ -20,13 +28,3 @@ function newTime(time){
 
 newTime(4500);
 
-
-// function ehsan(timer){
-//     const setInter = setInterval(()=>{
-//         timer--;
-//         console.log(timer);
-//     },1000);
-//     return setInter;
-// }
-
-// console.log(ehsan(120))
