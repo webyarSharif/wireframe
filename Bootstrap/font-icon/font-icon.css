@@ -70,6 +70,10 @@
   content: "\e904";
   font-size:25px;
 }
+.webyar-top:before{
+  content: "\e904";
+  font-size:15px;
+}
 .webyar-linkedin:before {
   content: "\e94f";
   font-size:25px;

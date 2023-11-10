@@ -38,3 +38,7 @@ function result (){
 result();
 
 
+const webyar_top = document.querySelector('.accordion-button');
+webyar_top.addEventListener('click' , ()=>{
+    console.log("hello")
+});
